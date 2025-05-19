@@ -1,11 +1,8 @@
-# Hello, I'm Satcheen 👨‍💻
-
----
+# Hello, I'm Satcheen 👨‍💻 [![Website](https://img.shields.io/badge/Website-satcheen.io-blue)](https://satcheen.io/)
+[![GitHub followers](https://img.shields.io/github/followers/5atchm1n?label=Follow&style=social)](https://github.com/5atchm1n)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satcheen-shakya/)
-[![GitHub followers](https://img.shields.io/github/followers/5atchm1n?label=Follow&style=social)](https://github.com/5atchm1n)
-[![Website](https://img.shields.io/badge/Website-satcheen.io-blue)](https://satcheen.io/)
 
 ---
 
@@ -14,11 +11,7 @@
 ---
 
 ## Full Stack Developer at IndigoNeo
-### Former Student at 42 School Paris
 
-## 💻 Tech Stack
-
-### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -27,26 +20,27 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Tools & Technologies
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=flat-square&logo=turborepo&logoColor=white)
 
-## 🚀 42 Projects
+### Former Student at 42 School Paris
+#### 🚀 42 Projects
 
 - [ft_containers](https://github.com/5atchm1n/ft_containers) - Implementation of CPP containers (MAP, SET, VECTOR, STACK)
 - [push_swap](https://github.com/5atchm1n/push_swap) - A basic two-stack sorting algorithm
 - [Inception](https://github.com/5atchm1n/Inception) - Basic DevOps with Docker containers
 
-### Testing Tools
+#### 42 Testing Tools
 - [ft_containers-tester-42](https://github.com/5atchm1n/ft_containers-tester-42) - Test suite for the ft_containers project
 - [push-swap-tester](https://github.com/5atchm1n/push-swap-tester) - Tester for push swap
 
@@ -54,21 +48,35 @@
 
 ![5atchm1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=5atchm1n&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
+## 📊 GitHub Stats
+
+<!-- Option 1: Metrics Embed (includes private contributions) -->
+<a href="https://github.com/5atchm1n">
+  <img src="https://metrics.lecoq.io/5atchm1n?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FParis" />
+</a>
+
+<!-- Option 2: Enhanced GitHub Readme Stats with token access (for private repos) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=5atchm1n&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="5atchm1n's GitHub Stats" />
+
+<!-- Option 3: WakaTime stats for programming activity (requires setup) -->
+<a href="https://wakatime.com/@5atchm1n">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=5atchm1n&layout=compact&theme=dracula" />
+</a>
+
+<!-- Option 4: Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5atchm1n&theme=dracula)](https://git.io/streak-stats)
+
+<!-- Option 5: Better Stats Display -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5atchm1n&theme=dracula" />
+
+<!-- Option 6: Language Stats with Better Private Repo Support -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5atchm1n&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5atchm1n&theme=dracula" />
+
+
 ### Top Languages Across All Projects
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5atchm1n&layout=compact&theme=dracula&hide=html&count_private=true&langs_count=10)
 
-### Featured Repo Stats
-<a href="https://github.com/5atchm1n/ft_containers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5atchm1n&repo=ft_containers&theme=dracula" />
-</a>
-<a href="https://github.com/5atchm1n/push_swap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5atchm1n&repo=push_swap&theme=dracula" />
-</a>
-
 ## 📈 GitHub Activity Graph
 [![5atchm1n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5atchm1n&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=5atchm1n&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 
