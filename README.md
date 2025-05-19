@@ -46,36 +46,13 @@
 
 ## 📊 GitHub Stats
 
-![5atchm1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=5atchm1n&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
-
-## 📊 GitHub Stats
-
-<!-- Option 1: Metrics Embed (includes private contributions) -->
-<a href="https://github.com/5atchm1n">
-  <img src="https://metrics.lecoq.io/5atchm1n?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FParis" />
-</a>
-
 <!-- Option 2: Enhanced GitHub Readme Stats with token access (for private repos) -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=5atchm1n&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="5atchm1n's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=5atchm1n&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="5atchm1n's GitHub Stats" />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5atchm1n&theme=dracula" />
 
-<!-- Option 3: WakaTime stats for programming activity (requires setup) -->
-<a href="https://wakatime.com/@5atchm1n">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=5atchm1n&layout=compact&theme=dracula" />
-</a>
-
-<!-- Option 4: Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5atchm1n&theme=dracula)](https://git.io/streak-stats)
 
 <!-- Option 5: Better Stats Display -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5atchm1n&theme=dracula" />
 
-<!-- Option 6: Language Stats with Better Private Repo Support -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5atchm1n&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5atchm1n&theme=dracula" />
-
-
-### Top Languages Across All Projects
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5atchm1n&layout=compact&theme=dracula&hide=html&count_private=true&langs_count=10)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5atchm1n&theme=dracula)](https://git.io/streak-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5atchm1n&theme=dracula" />
 
 ## 📈 GitHub Activity Graph
 [![5atchm1n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5atchm1n&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
