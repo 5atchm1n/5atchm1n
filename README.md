@@ -1,10 +1,20 @@
 # Hello, I'm Satcheen 👨‍💻
 
-## Full Stack Developer at IndigoNeo
-### Former Student at 42 School Paris
+---
 
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satcheen-shakya/)
 [![GitHub followers](https://img.shields.io/github/followers/5atchm1n?label=Follow&style=social)](https://github.com/5atchm1n)
 [![Website](https://img.shields.io/badge/Website-satcheen.io-blue)](https://satcheen.io/)
+
+---
+
+⚡ **Fun fact:** The answer to life, the universe, and everything is 42.
+
+---
+
+## Full Stack Developer at IndigoNeo
+### Former Student at 42 School Paris
 
 ## 💻 Tech Stack
 
@@ -30,13 +40,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=flat-square&logo=turborepo&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 42 Projects
 
-### C/C++ Development
 - [ft_containers](https://github.com/5atchm1n/ft_containers) - Implementation of CPP containers (MAP, SET, VECTOR, STACK)
 - [push_swap](https://github.com/5atchm1n/push_swap) - A basic two-stack sorting algorithm
-
-### DevOps
 - [Inception](https://github.com/5atchm1n/Inception) - Basic DevOps with Docker containers
 
 ### Testing Tools
@@ -64,9 +71,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=5atchm1n&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satcheen-shakya/)
 
----
-
-⚡ **Fun fact:** The answer to life, the universe, and everything is 42.
